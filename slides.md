@@ -53,7 +53,7 @@ Source image : _La bibliothèque la nuit_ exposition Ex Machina/Robert Lepage
 <!-- .slide: data-background-image="img/crouzetAuteurCodeur.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->"Pour écrire un codex, l’auteur doit produire non seulement du texte et des liens, mais aussi du code informatique, un code qui fait partie intégrante de l’œuvre." </br> Thierry Crouzet, 2011.
+>**"Pour écrire un codex, l’auteur doit produire non seulement du texte et des liens, mais aussi du code informatique, un code qui fait partie intégrante de l’œuvre."** </br> Thierry Crouzet, 2011.
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -62,7 +62,7 @@ Source image : _La bibliothèque la nuit_ exposition Ex Machina/Robert Lepage
 <!-- .slide: data-background-image="img/crouzetAuteurCodeur.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->“On m’a répondu « T’es pas boulanger, t’es pas auteur »” </br> Thierry Crouzet, 2011.
+>**“On m’a répondu « T’es pas boulanger, t’es pas auteur »”** </br> Thierry Crouzet, 2011.
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -73,7 +73,7 @@ Source image : _La bibliothèque la nuit_ exposition Ex Machina/Robert Lepage
 <!-- .slide: class="hover"-->
 
 
->Le code était notre alphabet désormais. On dessinait. [...]. Des heures sur quelques lignes de code pour modifier tel interligne, et qui pour s’en apercevoir ? On se refilait les lignes de code comme des secrets, des formules vaguement magiques. </br>Arnaud Maïsetti, 2018
+>**"Le code était notre alphabet désormais. On dessinait. [...]. Des heures sur quelques lignes de code pour modifier tel interligne, et qui pour s’en apercevoir ? On se refilait les lignes de code comme des secrets, des formules vaguement magiques."** </br>Arnaud Maïsetti, 2018
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -101,7 +101,7 @@ Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue d
 <!-- .slide: class="hover"-->
 
 
->Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Cet auto-enfermement [...] conduit les analystes à parler de notre posture d’auteurs, de nos techniques de publication, de promotion, parfois de travail, mais presque jamais de nos textes. On dirait que nous n’écrivons pas, on dirait que ceux qui parlent de notre travail ne nous lisent pas. </br> Thierry Crouzet, 2018.
+>**"Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Cet auto-enfermement [...] conduit les analystes à parler de notre posture d’auteurs, de nos techniques de publication, de promotion, parfois de travail, mais presque jamais de nos textes. On dirait que nous n’écrivons pas, on dirait que ceux qui parlent de notre travail ne nous lisent pas."** </br> Thierry Crouzet, 2018.
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -110,7 +110,7 @@ Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue d
 <!-- .slide: data-background-image="img/versionpapier.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->"La littérature numérique est morte. </br>Vive la littérature" </br> Thierry Crouzet, 2018.
+>**"La littérature numérique est morte. </br>Vive la littérature"** </br> Thierry Crouzet, 2018.
 
 
 Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue de l'auteur)
@@ -137,7 +137,7 @@ Source image : Recherche _Étant donnée_ (Cécile Portier et alii) sur la WayBa
 <!-- .slide: data-background-image="img/Bayard.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->"Contrairement aux idées reçues, il est tout à fait possible d'avoir un échange passionnant à propos d'un livre que l'on n'a pas lu, y compris, et peut-être surtout, avec quelqu'un qui ne l'a pas lu non plus." </br>Pierre Bayard, *Comment parler des livres qu'on a pas lus*, 2007)
+>**"Contrairement aux idées reçues, il est tout à fait possible d'avoir un échange passionnant à propos d'un livre que l'on n'a pas lu, y compris, et peut-être surtout, avec quelqu'un qui ne l'a pas lu non plus."** </br>Pierre Bayard, *Comment parler des livres qu'on a pas lus*, 2007)
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -147,8 +147,7 @@ Source image : Recherche _Étant donnée_ (Cécile Portier et alii) sur la WayBa
 <!-- .slide: data-background-image="img/eloDirectory.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->"Pour Brian Kim Stefans, la « valeur » de la littérature générative doit par exemple être cherchée non pas dans les textes produits, mais dans la **«&nbsp;discordance&nbsp;»** avec la tradition. [...] Émerge ainsi comme critère de valeur éminemment important
-celui de la **««&nbsp;déviation«&nbsp;»**, de la mise en question des genres, normes et conventions. L’**««&nbsp;écart esthétique«&nbsp;»** avec les attentes du lecteur se situe soit dans le rapport aux traditions littéraires papier ; soit il se manifeste par rapport aux normes et conventions d’une intermédialité pré-numérique." </br>Alexandra Saemmer, "La littérature numérique entre légitimation et canonisation", 2001
+>**"Pour Brian Kim Stefans, la « valeur » de la littérature générative doit par exemple être cherchée non pas dans les textes produits, mais dans la <FONT color="red">«&nbsp;discordance&nbsp;»</FONT color="red"> avec la tradition. [...] Émerge ainsi comme critère de valeur éminemment important celui de la <FONT color="red">«&nbsp;déviation&nbsp;»</FONT color="red">, de la mise en question des genres, normes et conventions. L’<FONT color="red">«&nbsp;écart esthétique&nbsp;»</FONT color="red"> avec les attentes du lecteur se situe soit dans le rapport aux traditions littéraires papier ; soit il se manifeste par rapport aux normes et conventions d’une intermédialité pré-numérique."** </br>Alexandra Saemmer, "La littérature numérique entre légitimation et canonisation", 2001
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -163,7 +162,7 @@ celui de la **««&nbsp;déviation«&nbsp;»**, de la mise en question des genre
 <!-- .slide: data-background-image="img/poem.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->"Au-delà de la compétence technique de l’auteur, la valeur littéraire relèverait en particulier des connotations attribuées au prestige d’une technologie ou d’une marque à laquelle il associe son nom. Dans ce cadre, l’œuvre littéraire apparaîtrait comme indissociable de la strate des discours tenus à son sujet comme production technique. [...] ce n’est pas tant “lire“ qui compte que “lire sur iphone“, ni tant “écrire“ que “écrire sous Java“". </br>Candel et Gomez-Gomez-Meija, 2013
+>**"Au-delà de la compétence technique de l’auteur, la valeur littéraire relèverait en particulier des connotations attribuées au prestige d’une technologie ou d’une marque à laquelle il associe son nom. Dans ce cadre, l’œuvre littéraire apparaîtrait comme indissociable de la strate des discours tenus à son sujet comme production technique. [...] ce n’est pas tant “lire“ qui compte que “lire sur iphone“, ni tant “écrire“ que “écrire sous Java“".** </br>Candel et Gomez-Gomez-Meija, 2013
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -220,7 +219,7 @@ Source image : Campagne d'affichage de La Quadrature du net, 2018
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->Pour comprendre le fonctionnement du numérique, il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (...) L’enjeu pédagogique est de faire émerger une littératie numérique, au-delà de l’alphabétisation classiquement prise en charge par les formations traditionnelles à l’utilisation des outils. Les élèves sont souvent des alphabétisés du numérique, mais ne sont pas toujours des lettrés du numérique. Ils savent poser techniquement un lien hypertexte, mais ne maîtrisent pas forcément la sémantique et la rhétorique du lien hypertexte. </br> Victor Petit et Serge Bouchardon, 2017
+>**"Pour comprendre le fonctionnement du numérique, il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (...) L’enjeu pédagogique est de faire émerger une littératie numérique, au-delà de l’alphabétisation classiquement prise en charge par les formations traditionnelles à l’utilisation des outils. Les élèves sont souvent des alphabétisés du numérique, mais ne sont pas toujours des lettrés du numérique. Ils savent poser techniquement un lien hypertexte, mais ne maîtrisent pas forcément la sémantique et la rhétorique du lien hypertexte. "**"</br> Victor Petit et Serge Bouchardon, 2017
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -256,7 +255,7 @@ Source image : _Traque Traces_ Cécile Portier (2011)
 <!-- .slide: data-background-image="img/traq_cap_01.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->Si nous sommes les premiers producteurs des traces numériques qui nous concernent, nous en sommes très peu auteurs. Les données produites à notre insu sont quantitativement plus importantes que celles que nous pensons maîtriser, dans un discours, une rhétorique consciente et personnelle. De plus nous sommes des « auteurs » quasiment analphabètes : nous avons peu accès, nous ne savons que très peu lire les données qui nous définissent. Et pourtant, d’autres savent lire et exploiter ces données. </br>Cécile Portier (2016)
+>**"Si nous sommes les premiers producteurs des traces numériques qui nous concernent, nous en sommes très peu auteurs. Les données produites à notre insu sont quantitativement plus importantes que celles que nous pensons maîtriser, dans un discours, une rhétorique consciente et personnelle. De plus nous sommes des « auteurs » quasiment analphabètes : nous avons peu accès, nous ne savons que très peu lire les données qui nous définissent. Et pourtant, d’autres savent lire et exploiter ces données."** </br>Cécile Portier (2016)
 
 <!-- .element: style="font-size:1.6rem" -->
 
